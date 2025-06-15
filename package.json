@@ -2,7 +2,7 @@
   "name": "ai-prompt-karakter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-github-username.github.io/AiPromptKarakter-1/",
+  "homepage": "https://digitalkreatif-id.github.io/AiPromptKarakter",
   "type": "module",
   "scripts": {
     "dev": "vite",
