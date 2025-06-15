@@ -1,0 +1,37 @@
+{
+  "name": "ai-prompt-karakter",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://your-github-username.github.io/AiPromptKarakter-1/",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "clsx": "^2.0.0",
+    "lucide-react": "^0.306.0",
+    "openai": "^4.29.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.48.2",
+    "zod": "^3.22.4",
+    "@hookform/resolvers": "^3.3.4",
+    "@radix-ui/react-slot": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "autoprefixer": "^10.4.16",
+    "class-variance-authority": "^0.7.0",
+    "gh-pages": "^6.0.0",
+    "postcss": "^8.4.24",
+    "tailwind-merge": "^1.14.0",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.4.3",
+    "vite": "^5.2.0",
+    "@vitejs/plugin-react": "^4.2.0"
+  }
+} 
